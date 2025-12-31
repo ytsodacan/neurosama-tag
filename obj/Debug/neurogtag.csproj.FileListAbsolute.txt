@@ -1,0 +1,9 @@
+C:\Users\sebas\source\repos\neurogtag\obj\Debug\neurogtag.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\neurogtag\obj\Debug\neurogtag.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\neurogtag\bin\Debug\neurogtag.dll
+C:\Users\sebas\source\repos\neurogtag\bin\Debug\neurogtag.pdb
+C:\Users\sebas\source\repos\neurogtag\obj\Debug\neurogtag.dll
+C:\Users\sebas\source\repos\neurogtag\obj\Debug\neurogtag.pdb
+C:\Users\sebas\source\repos\neurogtag\bin\Debug\neurogtag.dll.config
+C:\Users\sebas\source\repos\neurogtag\bin\Debug\Fusion.Runtime.dll
+C:\Users\sebas\source\repos\neurogtag\obj\Debug\neurogtag.csproj.Up2Date
